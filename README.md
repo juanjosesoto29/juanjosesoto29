@@ -2,7 +2,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
 
 I am currently in my first year. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
 
@@ -44,4 +44,3 @@ I am currently in my first year. I am expanding my knowledge in both front-end a
   <a href = "https://www.twitch.tv/fugilxd">
       <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
 </span>
-
