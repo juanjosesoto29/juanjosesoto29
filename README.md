@@ -4,7 +4,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
 
-I am currently in my first year. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
+I am currently in my second year. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
   -  Java
